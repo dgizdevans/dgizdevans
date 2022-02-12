@@ -22,4 +22,3 @@ Since I've decided to make a career change and continue to do mostly data-driven
 Data Analyst with Python from Datacamp</br>
 IBM Data Science Professional</br>
 Meta/Facebook Certified Marketing Science Professional</br>
-[Getting Started With Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/UpVsRbWlSeu8snOpDG7Lbw)</br>
