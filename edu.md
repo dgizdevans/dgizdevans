@@ -17,7 +17,7 @@ Since I've decided to make a career change and continue to do mostly data-driven
 
 ## Ongoing courses and certifications
 
-Data Analyst with Python from Datacamp
-IBM Data Science Professional
-Meta/Facebook Certified Marketing Science Professional 
-Getting Started With Google Analytics 360
+Data Analyst with Python from Datacamp</br>
+IBM Data Science Professional</br>
+Meta/Facebook Certified Marketing Science Professional</br>
+Getting Started With Google Analytics 360</br>
