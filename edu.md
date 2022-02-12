@@ -2,7 +2,7 @@
 
 Since I've decided to make a career change and continue to do mostly data-driven work as an analyst and hopefully a data scientist, I need to validate my knowledge in these areas. That's why I've been very actively taking various courses and certifications for the past few months.
 
-## Certification:
+## Certifications:
 
 [Google Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/QGFF8WVL7HY3)</br>
 [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/RBSYQKHS4TUS)</br>
