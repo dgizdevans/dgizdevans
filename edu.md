@@ -15,6 +15,7 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [Google Tag Manager Fundamentals](https://analytics.google.com/analytics/academy/certificate/urMjbP_tS-iNdpGzcdK9SQ)</br>
 [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/_P2K9lofRumC636BPIsBvg)</br>
 [Getting Started With Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/UpVsRbWlSeu8snOpDG7Lbw)</br>
+[Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/iHjv4DZATxyoBzlbrMtB6w)</br>
 
 ## Ongoing courses and certifications
 
