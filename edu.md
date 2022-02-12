@@ -14,10 +14,11 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/FX3U17VpSU2l0XEVVHmkHA)</br>
 [Google Tag Manager Fundamentals](https://analytics.google.com/analytics/academy/certificate/urMjbP_tS-iNdpGzcdK9SQ)</br>
 [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/_P2K9lofRumC636BPIsBvg)</br>
+[Getting Started With Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/UpVsRbWlSeu8snOpDG7Lbw)</br>
 
 ## Ongoing courses and certifications
 
 Data Analyst with Python from Datacamp</br>
 IBM Data Science Professional</br>
 Meta/Facebook Certified Marketing Science Professional</br>
-Getting Started With Google Analytics 360</br>
+[Getting Started With Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/UpVsRbWlSeu8snOpDG7Lbw)</br>
