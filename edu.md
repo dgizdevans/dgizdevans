@@ -10,7 +10,7 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [AI Product Management](https://www.coursera.org/account/accomplishments/specialization/2EMXNFNQ5JMN)</br>
 
 #### Google Analytics Academy / Google Digital Academy
-#### Analytics
+##### Analytics
 [Google Analytics Certification](https://skillshop.exceedlms.com/profiles/77c1f139ddd84210abcca7d6ee61e620)</br>
 [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/profiles/77c1f139ddd84210abcca7d6ee61e620)</br>
 [Google Ads - Measurement Certification](https://skillshop.exceedlms.com/profiles/77c1f139ddd84210abcca7d6ee61e620)</br>
@@ -20,7 +20,7 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/_P2K9lofRumC636BPIsBvg)</br>
 [Getting Started With Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/UpVsRbWlSeu8snOpDG7Lbw)</br>
 [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/iHjv4DZATxyoBzlbrMtB6w)</br>
-#### Marketing platform
+##### Marketing platform
 [Display & Video 360 Certification Exam](https://skillshop.exceedlms.com/profiles/77c1f139ddd84210abcca7d6ee61e620)</br>
 
 
