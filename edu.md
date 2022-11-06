@@ -24,7 +24,7 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [Display & Video 360 Certification Exam](https://skillshop.exceedlms.com/profiles/77c1f139ddd84210abcca7d6ee61e620)</br>
 
 ### Other
-[Google Digital Marketing & E-commerce]([https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ](https://www.coursera.org/account/accomplishments/professional-cert/XEHTVE5YBM34))</br>
+[Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ)</br>
 
 
 ## Ongoing courses and certifications
