@@ -25,7 +25,7 @@ Since I've decided to make a career change and continue to do mostly data-driven
 
 ### Other
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ)</br>
-[Data Analyst with Python] (https://www.datacamp.com/statement-of-accomplishment/track/70f5b049ea475e98d36e0e82979f18ae76452dcd)</br>
+[Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/70f5b049ea475e98d36e0e82979f18ae76452dcd)</br>
 
 ## Ongoing courses and certifications
 
