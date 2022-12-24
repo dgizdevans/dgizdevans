@@ -22,10 +22,12 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/iHjv4DZATxyoBzlbrMtB6w)</br>
 ##### Marketing platform
 [Display & Video 360 Certification Exam](https://skillshop.exceedlms.com/profiles/77c1f139ddd84210abcca7d6ee61e620)</br>
+[Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ)</br>
 
 ### Other
-[Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ)</br>
 [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/70f5b049ea475e98d36e0e82979f18ae76452dcd)</br>
+[Power BI Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/82aa7791c5ebd870727a64b96045191423607762)</br>
+[SQL Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/344ce46be3b8ef568c67937e8f51e07c11d97bd5)
 
 ## Ongoing courses and certifications
 
