@@ -34,5 +34,5 @@ Since I've decided to make a career change and continue to do mostly data-driven
 ## Ongoing courses and certifications
 
 Microsoft Certified: Power BI Data Analyst Associate</br>
-Meta/Facebook Certified Marketing Science Professional</br>
+
 
