@@ -3,8 +3,10 @@
 Since I've decided to make a career change and continue to do mostly data-driven work as an analyst and hopefully a data scientist, I need to validate my knowledge in these areas. That's why I've been very actively taking various courses and certifications for the past few months.
 
 ## Certifications:
-[IBM Data Science Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/RUGKMFSA9UJQ)</br>
+
+[Associate Data Analyst by Datacamp](https://www.datacamp.com/certificate/DAA0019707179218)</br>
 [Google Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/QGFF8WVL7HY3)</br>
+[IBM Data Science Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/RUGKMFSA9UJQ)</br>
 [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/RBSYQKHS4TUS)</br>
 [Facebook Marketing Analytics](https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ)</br>
 [AI Product Management](https://www.coursera.org/account/accomplishments/specialization/2EMXNFNQ5JMN)</br>
