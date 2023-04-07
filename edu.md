@@ -27,6 +27,8 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ)</br>
 
 ### Other
+[Data Analyst with SQL](https://www.datacamp.com/statement-of-accomplishment/track/83ef3330a95168d7d768b6581f7ab5cdae765599)</br>
+[Data Analyst with PowerBI](https://www.datacamp.com/statement-of-accomplishment/track/6ac5f41b6050af141372914a6fc925f3143560a2)
 [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/70f5b049ea475e98d36e0e82979f18ae76452dcd)</br>
 [Power BI Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/82aa7791c5ebd870727a64b96045191423607762)</br>
 [SQL Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/344ce46be3b8ef568c67937e8f51e07c11d97bd5)
