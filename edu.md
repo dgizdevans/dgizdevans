@@ -22,11 +22,11 @@ Since I've decided to make a career change and continue to do mostly data-driven
 [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/_P2K9lofRumC636BPIsBvg)</br>
 [Getting Started With Google Analytics 360](https://analytics.google.com/analytics/academy/certificate/UpVsRbWlSeu8snOpDG7Lbw)</br>
 [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/iHjv4DZATxyoBzlbrMtB6w)</br>
-##### Marketing platform
+##### Marketing platforms
 [Display & Video 360 Certification Exam](https://skillshop.exceedlms.com/profiles/77c1f139ddd84210abcca7d6ee61e620)</br>
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/YGB2Z2LQMDDQ)</br>
 
-### Other
+### Other Data Analytics courses
 [Data Analyst with SQL](https://www.datacamp.com/statement-of-accomplishment/track/83ef3330a95168d7d768b6581f7ab5cdae765599)</br>
 [Data Analyst with PowerBI](https://www.datacamp.com/statement-of-accomplishment/track/6ac5f41b6050af141372914a6fc925f3143560a2)</br>
 [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/70f5b049ea475e98d36e0e82979f18ae76452dcd)</br>
